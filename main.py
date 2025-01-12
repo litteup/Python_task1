@@ -1,3 +1,4 @@
+
 print('Hello from task 1')
 
 def say_hi():
@@ -5,3 +6,4 @@ def say_hi():
 
 
 print(say_hi())
+
